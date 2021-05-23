@@ -1,0 +1,3 @@
+include ':BlinkLibrary'
+include ':app'
+rootProject.name = "BlinkEffectExample"
